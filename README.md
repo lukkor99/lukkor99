@@ -5,7 +5,7 @@
 
 - 📫 How to reach me:
   * :email: lukasz.kordas0@gmail.com
-- 🔭 I’m currently working on my educational data science and data analytics projects.
+- 🔭 I’m currently working on data analysis in my workplace
 - 🌱 I’m currently learning:
   *  Python  :snake:
   *  Data analytics with Excel, Power BI and SQL Server :chart_with_upwards_trend:
