@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## I'm 3rd year CS student :computer:
-## Junior Data/Functional Analyst in ABB GBS
+## Junior Analyst in ABB GBS
 
 - 📫 How to reach me:
   * :email: lukasz.kordas0@gmail.com
