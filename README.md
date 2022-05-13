@@ -14,5 +14,7 @@
   * Motorsport :checkered_flag:
   * Badminton :tennis:
   * Trekking and mountinains :mount_fuji:
+  
 - :star: Certifications
-![microsoft-certified-azure-data-scientist-associate](https://user-images.githubusercontent.com/63464154/168322258-cd59f49f-3903-4173-945b-2b084632dc80.png)
+
+![microsoft-certified-azure-data-scientist-associate (1)](https://user-images.githubusercontent.com/63464154/168322704-b643a1a3-bb11-4993-a199-3cf3a3faa39c.png)
