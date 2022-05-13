@@ -10,6 +10,8 @@
   *  Python  :snake:
   *  Data analytics with Excel, Power BI and SQL Server :chart_with_upwards_trend:
   *  ML and deep learning :computer:
+  *  Spark :sparkles: and Hadoop :elephant:
+  *  Azure Cloud :cloud:
 - ⚡ My hobbies:
   * Motorsport :checkered_flag:
   * Badminton :tennis:
