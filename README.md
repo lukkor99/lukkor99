@@ -14,3 +14,5 @@
   * Motorsport :checkered_flag:
   * Badminton :tennis:
   * Trekking and mountinains :mount_fuji:
+
+![azure-data-scientist-associate-600x600](https://user-images.githubusercontent.com/63464154/168321643-d74cdcfb-c1b8-4435-b553-c1f39766fd83.png)
