@@ -15,4 +15,4 @@
   * Badminton :tennis:
   * Trekking and mountinains :mount_fuji:
 
-![azure-data-scientist-associate-600x600](https://user-images.githubusercontent.com/63464154/168321643-d74cdcfb-c1b8-4435-b553-c1f39766fd83.png)
+![microsoft-certified-azure-data-scientist-associate](https://user-images.githubusercontent.com/63464154/168322258-cd59f49f-3903-4173-945b-2b084632dc80.png)
