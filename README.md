@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I am Junior Analyst at ABB GBS and 3rd Year Computer Science student.
+## I am Junior DevOps Engineer in Ericsson and 3rd Year Computer Science student.
 
 - 📫 How to reach me:
   * :email: lukasz.kordas0@gmail.com
